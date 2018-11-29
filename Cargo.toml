@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["varomix"]
 
 [dependencies]
+cgmath = "0.16.1"
+gl = "0.11.0"
+glfw = "0.25.0"
+image = "0.20.1"
