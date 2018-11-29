@@ -1,0 +1,6 @@
+[package]
+name = "learn_opengl"
+version = "0.1.0"
+authors = ["varomix"]
+
+[dependencies]
